@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shfshanyue/vercel-api/issues"
   },
-  "homepage": "https://github.com/shfshanyue/vercel-api#readme"
+  "homepage": "https://github.com/shfshanyue/vercel-api#readme",
+  "dependencies": {
+    "micro": "^9.3.4"
+  }
 }

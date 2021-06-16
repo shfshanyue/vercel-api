@@ -10,7 +10,7 @@ Hello, shanyue
 ## JSON
 
 ``` bash
-$ curl -vvv https://vercel-api-shanyue.vercel.app/api/json
+$ curl -vvv https://vercel.api-shanyue.vercel.app/api/json
 < HTTP/2 200
 < content-type: application/json; charset=utf-8
 
