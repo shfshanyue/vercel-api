@@ -1,5 +1,7 @@
 # Vercel API
 
+Document see [serverless functions](https://vercel.com/docs/concepts/functions/serverless-functions/quickstart)。
+
 ## API
 
 ``` bash
